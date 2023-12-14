@@ -28,3 +28,10 @@ print("hello celebal")
 
 
 print("task instance")
+
+
+
+import pandas as pd 
+a={"name":["jack","amanda","tom"],"age":[23,24,25]}
+df=pd.Dataframe(a)
+print(df)

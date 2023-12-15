@@ -38,3 +38,10 @@ print(df)
 
 
 print("abhay the great")
+
+
+d12=[i for i in range(1,11)]
+d3=0
+for i in d12:
+    d3+=i
+print(d3)
